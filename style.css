@@ -208,8 +208,8 @@ body {
         text-align: center;
         padding: 10px;
         margin: 10px 0 10px 10px;
-        position:absolute;
-        left: 700px;
+        position: relative;
+        float:right;
     }
 
     .mainLink:hover {
@@ -227,9 +227,8 @@ body {
         text-align: center;
         padding: 10px;
         margin: 10px 0 10px 10px;
-        position:absolute;
-        right: 800px;
-        cursor: pointer;
+        position: relative;
+        left: 300px;
     }
 
     .playlistLink:hover {
