@@ -208,7 +208,8 @@ body {
         text-align: center;
         padding: 10px;
         margin: 10px 0 10px 10px;
-        float:right;
+        position:absolute;
+        left: 500px;
     }
 
     .mainLink:hover {
@@ -227,7 +228,7 @@ body {
         padding: 10px;
         margin: 10px 0 10px 10px;
         position:absolute;
-        right: 400px;
+        right: 500px;
         cursor: pointer;
     }
 
